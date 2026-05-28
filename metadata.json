@@ -1,0 +1,12 @@
+{
+  "name": "Anika-AI",
+  "description": "An intelligent AI-based spending prevention and smart budget assistant for students. Analyze products before purchase and manage your finances intelligently.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": [
+    "AI Conversational Assistant",
+    "Pre-Purchase Analysis",
+    "Budget Planning",
+    "Trip Planning",
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
